@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab6_LiliyaBukhtik", "Lab6_LiliyaBukhtik.csproj", "{3F3685F4-89DE-4573-9A1F-7433143FF21A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program2", "Program2\Program2.csproj", "{BE9E46B4-4BF9-4595-91A0-862832F75AA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clinic", "..\Clinic\Clinic.csproj", "{E494BED2-7599-4208-93CD-97C3F6E1ACFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F3685F4-89DE-4573-9A1F-7433143FF21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3685F4-89DE-4573-9A1F-7433143FF21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3685F4-89DE-4573-9A1F-7433143FF21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3685F4-89DE-4573-9A1F-7433143FF21A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9E46B4-4BF9-4595-91A0-862832F75AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9E46B4-4BF9-4595-91A0-862832F75AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9E46B4-4BF9-4595-91A0-862832F75AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9E46B4-4BF9-4595-91A0-862832F75AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E494BED2-7599-4208-93CD-97C3F6E1ACFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E494BED2-7599-4208-93CD-97C3F6E1ACFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E494BED2-7599-4208-93CD-97C3F6E1ACFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E494BED2-7599-4208-93CD-97C3F6E1ACFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96727B5E-2A80-48F2-94FC-98138E070E41}
+	EndGlobalSection
+EndGlobal

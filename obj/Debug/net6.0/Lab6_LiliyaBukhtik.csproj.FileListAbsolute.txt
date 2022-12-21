@@ -1,0 +1,15 @@
+D:\Microsoft Visual Studio\Projects\Lab6_LiliyaBukhtik\bin\Debug\net6.0\Lab6_LiliyaBukhtik.exe
+D:\Microsoft Visual Studio\Projects\Lab6_LiliyaBukhtik\bin\Debug\net6.0\Lab6_LiliyaBukhtik.deps.json
+D:\Microsoft Visual Studio\Projects\Lab6_LiliyaBukhtik\bin\Debug\net6.0\Lab6_LiliyaBukhtik.runtimeconfig.json
+D:\Microsoft Visual Studio\Projects\Lab6_LiliyaBukhtik\bin\Debug\net6.0\Lab6_LiliyaBukhtik.dll
+D:\Microsoft Visual Studio\Projects\Lab6_LiliyaBukhtik\bin\Debug\net6.0\Lab6_LiliyaBukhtik.pdb
+D:\Microsoft Visual Studio\Projects\Lab6_LiliyaBukhtik\obj\Debug\net6.0\Lab6_LiliyaBukhtik.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Projects\Lab6_LiliyaBukhtik\obj\Debug\net6.0\Lab6_LiliyaBukhtik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\Projects\Lab6_LiliyaBukhtik\obj\Debug\net6.0\Lab6_LiliyaBukhtik.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Projects\Lab6_LiliyaBukhtik\obj\Debug\net6.0\Lab6_LiliyaBukhtik.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Projects\Lab6_LiliyaBukhtik\obj\Debug\net6.0\Lab6_LiliyaBukhtik.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Projects\Lab6_LiliyaBukhtik\obj\Debug\net6.0\Lab6_LiliyaBukhtik.dll
+D:\Microsoft Visual Studio\Projects\Lab6_LiliyaBukhtik\obj\Debug\net6.0\refint\Lab6_LiliyaBukhtik.dll
+D:\Microsoft Visual Studio\Projects\Lab6_LiliyaBukhtik\obj\Debug\net6.0\Lab6_LiliyaBukhtik.pdb
+D:\Microsoft Visual Studio\Projects\Lab6_LiliyaBukhtik\obj\Debug\net6.0\Lab6_LiliyaBukhtik.genruntimeconfig.cache
+D:\Microsoft Visual Studio\Projects\Lab6_LiliyaBukhtik\obj\Debug\net6.0\ref\Lab6_LiliyaBukhtik.dll
